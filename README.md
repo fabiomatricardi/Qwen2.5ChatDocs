@@ -28,4 +28,4 @@ Read more in the [official blog post](https://qwenlm.github.io/blog/qwen2.5/)
 ### The running app
 
 
-<img src='https://github.com/fabiomatricardi/RWKV-7_localGPT/raw/main/RWKV7gradioDocs.gif' width=1000>
+<img src='https://github.com/fabiomatricardi/Qwen2.5ChatDocs/raw/main/QWEN25_docsGradio_sm.gif' width=1000>
